@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    overflow: hidden; /* Prevent scrollbars */
+  height: 100%;
+   
+}
+#board {
+   /* background-color: skyblue;*/
+     background: url("./bg3.png");
+     display: block;
+     width: 100vw; /* Full width of viewport */
+     height: 100vh;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
